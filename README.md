@@ -14,10 +14,6 @@ Publications:
    * Locality-Aware Parallel Sparse Matrix-Vector and Matrix-Transpose-Vector Multiplication on Many-Core Processors, Karsavuran O., Akbudak K, and Aykanat C., IEEE Transactions on Parallel and Distributed Systems ( Volume: 27, Issue: 6, June 1 2016 )
    * Exploiting Locality in Sparse Matrix-Matrix Multiplication on Many-Core Architectures, Akbudak K, and Aykanat C., IEEE Transactions on Parallel and Distributed Systems (accepted)
 
-Software:
-
-   * Parallel Sparse Matrix-Matrix Multiplication Library
-
 Invited Talk:
 
    * K. Akbudak, R. O. Selvitopi, and C. Aykanat, Exploiting Sparsity in Parallel Sparse Matrix-Matrix Multiplication, SIAM Conference on Applied Linear Algebra (LA15), October 26-30, 2015, Atlanta
